@@ -35,9 +35,14 @@ The ERROR and WARNING Messages will be displayed on the console and the results 
 
 
 ### Test
-o execute the rspec testcases, execute the below command from the project root directory
+To execute the rspec testcases, execute the below command from the project root directory
 
 	$ rspec spec
 
-
+### ToDo
+1. Extend the code functionality
+2. Improvise the display of results
+3. Improvise the ERROR and WARNING Messages, may be add to a file
+4. Code refractor
+5. Additional spec classes if required
 
